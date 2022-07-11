@@ -40,7 +40,7 @@ setInterval(() => {
       console.log(error);
     }
   })();
-}, 15000);
+}, 3000);
 
 async function sendUSDT(
   network,
